@@ -1,0 +1,34 @@
+{
+  "allGrocery": [
+    {
+      "id": 1,
+      "name": "apple",
+      "price": 3,
+      "stock": 100
+    },
+    {
+      "id": 2,
+      "name": "grapes",
+      "price": 5,
+      "stock": 50
+    },
+    {
+      "price": 12,
+      "name": "string",
+      "id": 4,
+      "stock": 3
+    },
+    {
+      "price": 34,
+      "name": "banana",
+      "id": 5,
+      "stock": 13
+    },
+    {
+      "price": 34,
+      "name": "banana",
+      "id": 6,
+      "stock": 13
+    }
+  ]
+}
